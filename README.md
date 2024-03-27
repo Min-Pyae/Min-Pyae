@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Min Pyae (Chris Min).</h1>
 <h3 align="center">An IT Student and a passionate self-learning iOS developer</h3>
 
-- 📫 How to reach me **minmp2002@gmail.com**
+- 📫 How to reach me **chrismin.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
