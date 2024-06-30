@@ -1,5 +1,7 @@
 <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
-<h1>Hello!, I am <a href="https://github.com/Defcon27">Min Pyae</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1>
+  Hello!, I am <a href="https://github.com/Min-Pyae">Min Pyae</a> 
+  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' height='30'>
 </h1>
 
 ### 📬 How to reach me
@@ -7,7 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/min-pyae-02mp/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chrismin.dev@gmail.com)](mailto:chrismin.dev@gmail.com)
 
-### 🧑🏻‍💻 About Me...  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50'>
+### 🧑🏻‍💻 About Me
 I'm a freshly graduated iOS Engineer with a passion for creating intuitive and impactful iOS mobile applications.<br/><br/>
 With a solid foundation in Swift and a keen interest in exploring SwiftUI for building responsive UIs, I have dedicated myself to mastering the art of iOS development.<br/><br/>
 
