@@ -1,7 +1,7 @@
 <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 <h1>
-  Hello!, I am <a href="https://github.com/Min-Pyae">Min Pyae</a> 
-  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' height='30'>
+  Hello, I am <a href="https://github.com/Min-Pyae">Min Pyae</a>! 
+  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' height='50'>
 </h1>
 
 ### 📬 How to reach me
