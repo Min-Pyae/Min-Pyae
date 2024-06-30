@@ -39,6 +39,6 @@ With a solid foundation in Swift and a keen interest in exploring SwiftUI for bu
   </a> 
 </p>
 
-<p align="center">
+<p align="left">
   <img width="450" height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=min-pyae&show_icons=true&locale=en&layout=compact&theme=react" alt="min-pyae" />
 </p>
