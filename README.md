@@ -10,8 +10,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chrismin.dev@gmail.com)](mailto:chrismin.dev@gmail.com)
 
 ### 🧑🏻‍💻 About Me
-I'm a freshly graduated iOS Engineer with a passion for creating intuitive and impactful iOS mobile applications.<br/><br/>
-With a solid foundation in Swift and a keen interest in exploring SwiftUI for building responsive UIs, I have dedicated myself to mastering the art of iOS development.<br/><br/>
+I'm a freshly graduated Software Engineer with a passion for creating intuitive and impactful mobile applications and websites.<br/><br/>
+With a strong foundation in native iOS development, Flutter, and web technologies including React, Node.js and software architecture, I have dedicated myself to mastering the art of software development.<br/><br/>
 
 ### ⚙️ Some Languages and Tools I use
 <p align="left"> 
@@ -35,7 +35,13 @@ With a solid foundation in Swift and a keen interest in exploring SwiftUI for bu
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://react.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
